@@ -23,20 +23,27 @@ while (count1 >= 1)
 }
 console.log(count1);
 
+// Partial Credit : Good start but you are still printing 5. Try working with the code snippet below.
+// if(count1 !== 5){
+//     console.log(count1)
+// }
+
 
 //Asks the user ```Enter a word. Enter 'q' to quit.``` Create a while loop that will not quit until they enter 'q'.
 
-var word = prompt("Enter a word.");
-var password = "q";
-var entry =
+// var word = prompt("Enter a word.");
+// var password = "q";
+// var entry =
 
-{
-    if (entry ===q)
-    {
-        alert("Password correct");
-        isvalid = true
-    }
-    else {
-        var1 prompt=("Enter a word.")
-    }
-    }
+// {
+//     if (entry ===q)
+//     {
+//         alert("Password correct");
+//         isvalid = true
+//     }
+//     else {
+//         var1 prompt=("Enter a word.")
+//     }
+//     }
+
+// NOTE : Incomeplete but a pretty good start
